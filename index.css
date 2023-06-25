@@ -1,0 +1,83 @@
+.bg-container {
+  background-color: rgba(75, 40, 40, 0.63);
+  background-size: cover;
+}
+.netflix-logo {
+  height: 65px;
+  width: 120px;
+  text-align: left;
+}
+.button-container {
+  text-align: right;
+  margin-bottom: 5px;
+}
+.bg-container1 {
+  background-image: url("cover\ pic\ 1.jpeg");
+  background-size: cover;
+  padding-bottom: 65px;
+}
+.main-head {
+  color: white;
+  font-size: 50px;
+  font-family: Roboto;
+  font-weight: bold;
+  padding-top: 120px;
+}
+.para1 {
+  color: white;
+  font-size: 30px;
+}
+.para2 {
+  color: white;
+  font-size: 25px;
+}
+.label-container {
+  color: white;
+  background-color: transparent;
+  height: 35px;
+  width: 500px;
+  text-align: left;
+  /* padding: 8px; */
+  padding-bottom: 13px;
+}
+.card-container {
+  background-color: black;
+  padding: 10px;
+}
+.card-head {
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+.card-para {
+  font-size: 15px;
+  color: white;
+}
+.card-image {
+  height: 350px;
+  width: 450px;
+}
+.faq-container {
+  background-color: gray;
+  padding: 10px;
+}
+.faq-text {
+  color: white;
+  font-size: 25px;
+  padding: 10px;
+}
+.faq-plus {
+  color: white;
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+.footer-container {
+  background-color: black;
+  padding: 10px;
+}
+.footer-para {
+  color: gray;
+}
+.navbar-inner {
+  background-color: transparent;
+}
